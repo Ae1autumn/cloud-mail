@@ -67,7 +67,7 @@ const en = {
 	bannedSend: 'You can only send emails to internal mailboxes',
 	onlyInternalSend: 'Your current role allows sending internal emails only',
 	noDomainPermAdd: "No permission to add this domain email",
-	noDomainPermReg: "No permission to register this domain email",
+	noDomainPermReg: "Registration not allowed",
 	noDomainPermRegKey: "Registration code not valid for this domain",
 	noDomainPermSend: "No permission to send from this domain email",
 	publicTokenFail: 'Token validation failed',
